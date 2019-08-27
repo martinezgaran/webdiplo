@@ -1,0 +1,30 @@
+
+
+.caja{
+	box-shadow: 0 0 0.3em rgb(0,0,0,0.5);
+	height: 400px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+
+}
+
+.caja .hijos1{
+	background: salmon;
+	height: 200px;
+	width: 200px;
+}
+
+
+.caja .hijos2{
+	background: gold;
+	height: 180px;
+	width: 200px;
+}
+
+
+.caja .hijos3{
+	background: lightpink;
+	height: 280px;
+	width: 250px;
+}
